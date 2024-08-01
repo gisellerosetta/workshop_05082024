@@ -7,12 +7,12 @@ Our aim is to get this code to run, taking as an input someone's name as a strin
 
 Getting the repo to your computer:
 1. Clone the repo using git bash or a command line tool. `git clone link-to-code-here`.
-2. Checkout a new branch. git checkout -b "branch-name-here".
+2. Checkout a new branch. `git checkout -b "branch-name-here"`.
 
 Coding:
 
 3. Write a python function in my_module.py to print someone's name. Aim to model this on the 
-add_one() function. The output from the function should look something like 'Hello name-here!'.
+`add_one()` function. The output from the function should look something like 'Hello name-here!'.
 4. Check it works by saving my_module.py, and running main.py.
 
 Putting the code on the remote repo:
