@@ -1,5 +1,5 @@
 # Pull Request
 ## Quality Checklist
-[ ] Does the code run?
+- [ ] Does the code run?
 
 ## Further Comments
