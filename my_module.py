@@ -17,3 +17,12 @@ def add_two(number_to_add: int):
     Adds two to a number.
     """
     return(number_to_add + 2)
+
+def print_greeting(name: str):
+    """
+    Parameters
+    ----------
+    name
+    | The name of the person being greeted
+    """
+    print(name)
